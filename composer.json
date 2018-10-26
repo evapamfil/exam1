@@ -1,0 +1,7 @@
+{
+    "name": "evapamfil/exam1",
+    "require": {
+        "vlucas/phpdotenv": "^2.5",
+        "nesbot/carbon": "^2.4"
+    }
+}
